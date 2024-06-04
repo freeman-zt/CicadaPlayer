@@ -6,7 +6,7 @@ This page is an introduction to the compilation for Android on MacOS or Ubuntu.
 
        [we recommend 14b for MacOS](https://dl.google.com/android/repository/android-ndk-r14b-darwin-x86_64.zip)
 
-       [we recommend 14b for Linux](https://dl.google.com/android/repository/android-ndk-r20b-linux-x86_64.zip)
+       [we recommend 14b for Linux](https://dl.google.com/android/repository/android-ndk-r14b-linux-x86_64.zip)
      -  [jdk](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
         [we recommend jdk8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
