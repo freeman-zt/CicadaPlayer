@@ -23,7 +23,7 @@ This page is an introduction to the compilation for Android on MacOS or Ubuntu.
     - Ubuntu
     
         ```bash
-        sudo apt-get utomake git libtool autoconf
+        sudo apt-get install automake git libtool autoconf
         ```
  
 2. Environment setup
