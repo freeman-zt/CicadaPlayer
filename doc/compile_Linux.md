@@ -12,6 +12,7 @@
     ```bash
     sudo apt-get install clang llvm
     sudo update-alternatives --config cc #select clang
+    sudo update-alternatives --config c++ #select clang++
     ```
 
 4. build_external

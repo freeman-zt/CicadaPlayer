@@ -4,6 +4,7 @@
 
 #include "SegmentTimeline.h"
 #include <algorithm>
+#include <limits>
 
 using namespace Cicada::Dash;
 
